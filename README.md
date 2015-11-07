@@ -2,7 +2,7 @@
 
 ## Członkowie zespołu
 1. Rafał Kawalerski 114813 rafal.kawalerski@student.put.poznan.pl
-2. Filip Rybakowski
+2. Filip Rybakowski 113984 filip.rybakowski@student.put.poznan.pl
 3. Damian Kasperski 108584 damian.kasperski@student.put.poznan.pl
 
 ## Krótki opis projektu
@@ -19,6 +19,7 @@ Aplikacj webowa ma stanowić pomoc oraz wsparcie dla pracy pracowników medyczny
 	6. Zapis przebiegu konsultacji do bazy danych
 
 ## Opis architektury
+Wukorzsytanie moelu MVC, wspieranego przez MeteorJS wraz z nierelacyjnej bazy danych MongoDB. 
 
 ## Podział zadań w zespole
 	Filip Rybakowski zadanie 1 i 2
