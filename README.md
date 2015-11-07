@@ -19,7 +19,7 @@ Aplikacj webowa ma stanowić pomoc oraz wsparcie dla pracy pracowników medyczny
 	6. Zapis przebiegu konsultacji do bazy danych
 
 ## Opis architektury
-Wukorzsytanie moelu MVC, wspieranego przez MeteorJS wraz z nierelacyjnej bazy danych MongoDB. 
+Wykorzsytanie moelu MVC, wspieranego przez MeteorJS oraz nierelacyjnej bazy danych MongoDB. 
 
 ## Podział zadań w zespole
 	Filip Rybakowski zadanie 1 i 2
